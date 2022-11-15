@@ -1,6 +1,4 @@
----
-layout: midnight
----
+theme: jekyll-theme-midnight
 
 # FNF Mods Online
 #### Forked From this dude [ggl22.github.io](https://github.com/ggl22/ggl22.github.io)
