@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if sprite is rotated-->
+<TextureAtlas imagePath="qwars3d.png" width="586" height="1654" scale="1" format="RGBA8888">
+  <sprite n="QWARS_SING_NOTE_UP_002.png" x="0" y="0" w="196" h="288" pX="0.5" pY="0.5" oX="10" oY="0" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_UP_001.png" x="0" y="288" w="196" h="284" pX="0.5" pY="0.5" oX="10" oY="4" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_LEFT_002.png" x="0" y="572" w="240" h="274" pX="0.5" pY="0.5" oX="10" oY="14" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_RIGHT_002.png" x="196" y="0" w="240" h="274" pX="0.5" pY="0.5" oX="10" oY="14" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_LEFT_001.png" x="196" y="274" w="232" h="274" pX="0.5" pY="0.5" oX="10" oY="14" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_LEFT_000.png" x="0" y="846" w="196" h="274" pX="0.5" pY="0.5" oX="10" oY="14" oW="250" oH="300"/>
+  <sprite n="QWARS_dance_000.png" x="0" y="1120" w="193" h="272" pX="0.5" pY="0.5" oX="10" oY="16" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_DOWN_000.png" x="0" y="1392" w="196" h="262" pX="0.5" pY="0.5" oX="10" oY="26" oW="250" oH="300"/>
+  <sprite n="QWARS_dance_001.png" x="193" y="1120" w="197" h="248" pX="0.5" pY="0.5" oX="10" oY="40" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_DOWN_001.png" x="196" y="846" w="196" h="232" pX="0.5" pY="0.5" oX="10" oY="56" oW="250" oH="300"/>
+  <sprite n="QWARS_dance_002.png" x="240" y="548" w="168" h="216" pX="0.5" pY="0.5" oX="10" oY="72" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_DOWN_002.png" x="392" y="764" w="196" h="194" pX="0.5" pY="0.5" oX="10" oY="94" oW="250" oH="300" r="y"/>
+  <sprite n="QWARS_SING_NOTE_UP_000.png" x="0" y="846" w="196" h="274" pX="0.5" pY="0.5" oX="10" oY="14" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_RIGHT_000.png" x="196" y="274" w="232" h="274" pX="0.5" pY="0.5" oX="10" oY="14" oW="250" oH="300"/>
+  <sprite n="QWARS_SING_NOTE_RIGHT_001.png" x="0" y="572" w="240" h="274" pX="0.5" pY="0.5" oX="10" oY="14" oW="250" oH="300"/>
+</TextureAtlas>
